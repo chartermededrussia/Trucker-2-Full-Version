@@ -239,4 +239,4 @@ This repository serves as the official landing page for Trucker 2. The software 
 **Get the most recent version of Trucker 2 today!**
 
 ---
-**Last updated:** 2026-10-24 17:10:59 UTC
+**Last updated:** 2026-10-24 20:10:40 UTC
